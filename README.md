@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with the RoboNet App
 
 This project is a Realtime search function on database of profiles. The list of available profiles are updated everytime there is a change in the search bar.
 
